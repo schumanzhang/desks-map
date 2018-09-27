@@ -1,5 +1,5 @@
 {"space": {"areas":[
-    {"id": 1, "side": "left", "partitions": [
+    {"id": 1, "side": "left", "x": 150, "y": 350, "partitions": [
         {"rowsCount": 2, "columnsCount": 2, "rows": [
             {"desks": [{"available": true},{"available": true}]},
             {"desks": [{"available": true},{"available": true}]}
@@ -17,7 +17,7 @@
             {"desks": [{"available": true},{"available": true}]}
         ]}
     ]},
-    {"id": 2, "side": "right", "partitions": [
+    {"id": 2, "side": "right", "x": 600, "y": 200, "partitions": [
         {"rowsCount": 2, "columnsCount": 3, "rows": [
             {"desks": [{"available": true},{"available": true},{"available": false}]},
             {"desks": [{"available": true},{"available": true},{"available": true}]}
