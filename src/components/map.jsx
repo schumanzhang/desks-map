@@ -1,10 +1,10 @@
 import React from 'react'
-import Space from './space'
+import Office from './office'
 
 export default function Map(props){
     return(
-        <svg className="map">
-          <Space/>
-        </svg>
+        <div className="map">
+          <Office/>
+        </div>
     )
 }

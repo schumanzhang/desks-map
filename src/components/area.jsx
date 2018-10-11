@@ -7,12 +7,10 @@ export default function Area(props){
     var currentY
     var nextY = y
     return(
-        <svg>
-            {partitions.map(par => {
-                currentY = nextY
-                nextY = currentY + par.rows.length * desksConstants.deskSize + desksConstants.partitionMargin
-                return (<Partition x={x} y={currentY} columnsCount={par.columnsCount} rows={par.rows} />)
-            })}
-        </svg>
+        partitions.map(par => {
+            currentY = nextY
+            nextY = currentY + par.rows.length * (desksConstants.deskSize + desksConstants.deskMargin) - desksConstants.deskMargin + desksConstants.partitionMargin
+            return (<Partition x={x} y={currentY} columnsCount={par.columnsCount} rows={par.rows} />)
+        })
     )
 }

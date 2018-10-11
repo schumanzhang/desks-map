@@ -1,4 +1,5 @@
 export const desksConstants = {
-    deskSize: 50,
-    partitionMargin: 50
+    deskSize: 60,
+    deskMargin: 20,
+    partitionMargin: 80
 }

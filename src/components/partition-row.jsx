@@ -6,12 +6,10 @@ export default function PartitionRow(props){
     const {x, y, columns, desks} = props
     let arrDesks = []
     for(let i=0; i < columns; i++){
-        let currentX = x + i * desksConstants.deskSize
+        let currentX = x + i * (desksConstants.deskSize + desksConstants.deskMargin)
         arrDesks.push(<Desk key={i} x={currentX} y= {y} available={desks[i].available}/>)
     }
     return (
-        <svg>
-            {arrDesks}
-        </svg>
+        arrDesks
     )
 }
