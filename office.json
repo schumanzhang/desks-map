@@ -18,10 +18,10 @@
                       "available": false
                     },
                     {
-                      "available": true
+                      "available": false
                     },
                     {
-                      "available": true
+                      "available": false
                     }
                   ]
                 }
@@ -34,7 +34,7 @@
                 {
                   "desks": [
                     {
-                      "available": true
+                      "available": false
                     },
                     {
                       "available": true
@@ -73,7 +73,7 @@
                 {
                   "desks": [
                     {
-                      "available": true
+                      "available": false
                     },
                     {
                       "available": true

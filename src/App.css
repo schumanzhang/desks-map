@@ -1,5 +1,25 @@
 
 
+
+body{
+  margin:0;
+  overflow:hidden;
+}
+.wrapper{
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  /* -webkit-transform-origin: bottom left; */
+  -ms-transform-origin: bottom left;
+  transform-origin: top right;
+  position: absolute;
+  top: 0;
+  left: -100vh;
+  height: 100vw;
+  width: 100vh;
+  color: #fff;
+  overflow: auto;
+}
 .App {
   text-align: center;
 }
