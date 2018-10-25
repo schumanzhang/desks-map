@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import Area from './area'
 import Utility from './utility'
 import Label from './label'
-import {onMapChanged} from '../api'
+import { onMapChanged } from '../api'
 
 export default class Office extends Component{
     constructor(props){
@@ -10,7 +10,7 @@ export default class Office extends Component{
         this.state= {office: null}
         this.loadMap = this.loadMap.bind(this)
 
-        onMapChanged(this.loadMap)
+        onMapChanged(this.loadMap);
     }
 
     componentDidMount(){
@@ -23,9 +23,11 @@ export default class Office extends Component{
         .then(function(response) {
             return response.json();
         }).then(function(officeJson) {
+            console.log('officeJson:', officeJson);
             self.setState({office: officeJson})
         });
     }
+
     render(){
         const {office} = this.state
         if(!office) return null
