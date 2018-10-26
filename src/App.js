@@ -5,7 +5,6 @@ import Map from './components/map'
 class App extends Component {
 
   render() {
-    console.log('app component');
     return (
       <div>
         <Map/>
