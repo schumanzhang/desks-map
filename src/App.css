@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-
 body{
   margin:0;
   overflow:hidden;
@@ -21,8 +17,7 @@ body{
   color: #fff;
   overflow: auto;
 }
-=======
->>>>>>> first commit
+
 .App {
   text-align: center;
 }
@@ -48,7 +43,6 @@ body{
 }
 
 .map {
-<<<<<<< HEAD
   width: 1080px;
   height: 1720px;
   background-color: #d0d3d6;
@@ -79,50 +73,8 @@ body{
 	border: solid 5px #549cff;
 }
 
-.desk--occupied{
+.desk--occupied {
   background-color: #549cff;
-=======
-  width: 100vw;
-  height: 1100px;
-}
-
-.space{
-  x: 50px;
-  y: 50px;
-  width: 800px;
-  height: 1000px;
-  fill: white;
-  stroke: black;
-  stroke-width: 10px;
-}
-
-.cafe{
-  x: 150;
-  y: 50px;
-  width: 600px;
-  height: 100px;
-  fill: white;
-  stroke: black;
-  stroke-width: 10px;
-}
-
-.steps{
-  fill: white;
-  stroke:black;
-  stroke-width: 10px;
-}
-
-.desk{
-  width: 50px;
-  height: 50px;
-  fill: green;
-  stroke: black;
-  stroke-width: 10px;
-}
-
-.desk--taken{
-  fill: red;
->>>>>>> first commit
 }
 
 @keyframes App-logo-spin {
