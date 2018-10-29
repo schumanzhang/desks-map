@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.18.0",
     "aws-iot-device-sdk": "^2.2.1",
     "aws-mqtt": "^0.2.2",
@@ -15,22 +14,12 @@
     "react-scripts": "1.1.5",
     "socket.io": "2.1.1",
     "socket.io-client": "^2.1.1"
-=======
-    "classnames": "^2.2.6",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
->>>>>>> first commit
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-<<<<<<< HEAD
     "eject": "react-scripts eject",
     "server": "json-server --watch office.json"
-=======
-    "eject": "react-scripts eject"
->>>>>>> first commit
   }
 }
