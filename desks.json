@@ -1,0 +1,37 @@
+{"space": {"areas":[
+    {"id": 1, "side": "left", "partitions": [
+        {"rowsCount": 2, "columnsCount": 2, "rows": [
+            {"desks": [{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": true}]}
+        ]},
+        {"rowsCount": 2, "columnsCount": 2, "rows": [
+            {"desks": [{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": false}]}
+        ]},
+        {"rowsCount": 2, "columnsCount": 2, "rows": [
+            {"desks": [{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": true}]}
+        ]},
+        {"rowsCount": 2, "columnsCount": 2, "rows": [
+            {"desks": [{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": true}]}
+        ]}
+    ]},
+    {"id": 2, "side": "right", "partitions": [
+        {"rowsCount": 2, "columnsCount": 3, "rows": [
+            {"desks": [{"available": true},{"available": true},{"available": false}]},
+            {"desks": [{"available": true},{"available": true},{"available": true}]}
+        ]},
+        {"rowsCount": 2, "columnsCount": 3, "rows": [
+            {"desks": [{"available": true},{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": false},{"available": true}]}
+        ]},
+        {"rowsCount": 2, "columnsCount": 3, "rows": [
+            {"desks": [{"available": true},{"available": true},{"available": true}]},
+            {"desks": [{"available": true},{"available": true},{"available": true}]}
+        ]},
+        {"rowsCount": 1, "columnsCount": 3, "rows": [
+            {"desks": [{"available": true},{"available": true},{"available": true}]}
+        ]}
+    ]}
+]}}
