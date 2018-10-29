@@ -1,0 +1,28 @@
+.label {
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: OpenSans;
+	letter-spacing: 0;
+}
+
+.label--vertical{
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Safari */
+    transform: rotate(-90deg);
+}
+
+.label--street{
+    font-size: 18px;
+	letter-spacing: 0;
+    color: #444444;
+    white-space: nowrap;
+}
+
+.label--utility{
+    font-size: 24px;
+	letter-spacing: 0;
+    color: #1d1d1d;
+    background-color: #fafafa;
+}

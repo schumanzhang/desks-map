@@ -1,0 +1,563 @@
+{
+  "offices": [
+    {
+      "id": 1,
+      "areas": [
+        {
+          "id": 1,
+          "x": 40,
+          "y": 620,
+          "partitions": [
+            {
+              "rowsCount": 1,
+              "columnsCount": 3,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 3,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "x": 40,
+          "y": 1060,
+          "partitions": [
+            {
+              "rowsCount": 2,
+              "columnsCount": 3,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 3,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "x": 460,
+          "y": 40,
+          "partitions": [
+            {
+              "rowsCount": 2,
+              "columnsCount": 3,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "x": 620,
+          "y": 260,
+          "partitions": [
+            {
+              "rowsCount": 2,
+              "columnsCount": 1,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "x": 540,
+          "y": 300,
+          "partitions": [
+            {
+              "rowsCount": 1,
+              "columnsCount": 1,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "x": 820,
+          "y": 40,
+          "partitions": [
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "x": 820,
+          "y": 740,
+          "partitions": [
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "rowsCount": 2,
+              "columnsCount": 2,
+              "rows": [
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                },
+                {
+                  "desks": [
+                    {
+                      "occupied": false
+                    },
+                    {
+                      "occupied": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "utilities": [
+        {
+          "id": 1,
+          "label": "WC",
+          "x": 0,
+          "y": 100,
+          "width": 270,
+          "height": 480
+        },
+        {
+          "id": 1,
+          "label": "Reception",
+          "x": 380,
+          "y": 0,
+          "width": 60,
+          "height": 560
+        },
+        {
+          "id": 1,
+          "label": "Flint",
+          "x": 440,
+          "y": 460,
+          "width": 260,
+          "height": 100
+        },
+        {
+          "id": 1,
+          "x": 0,
+          "y": 940,
+          "width": 280,
+          "height": 40
+        },
+        {
+          "id": 1,
+          "x": 380,
+          "y": 640,
+          "width": 140,
+          "height": 80
+        },
+        {
+          "id": 1,
+          "label": "Venture rooms",
+          "x": 380,
+          "y": 740,
+          "width": 320,
+          "height": 720
+        },
+        {
+          "id": 1,
+          "x": 820,
+          "y": 640,
+          "width": 140,
+          "height": 80
+        },
+        {
+          "id": 1,
+          "label": "Ember",
+          "x": 0,
+          "y": 1480,
+          "width": 280,
+          "height": 160
+        },
+        {
+          "id": 1,
+          "label": "Lens",
+          "x": 800,
+          "y": 1380,
+          "width": 200,
+          "height": 160
+        },
+        {
+          "id": 1,
+          "label": "Cafe",
+          "x": 280,
+          "y": 1540,
+          "width": 720,
+          "height": 100
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "text": "George St.",
+          "x": -64,
+          "y": 815,
+          "className": "label--street",
+          "vertical": true
+        },
+        {
+          "id": 1,
+          "text": "Hickson Rd.",
+          "x": 972,
+          "y": 815.5,
+          "className": "label--street",
+          "vertical": true
+        },
+        {
+          "id": 1,
+          "text": "Entry",
+          "x": 298,
+          "y": 146.5,
+          "className": "label--utility"
+        },
+        {
+          "id": 1,
+          "text": "WC",
+          "x": 87,
+          "y": 326,
+          "width": 95,
+          "height": 45,
+          "className": "label--utility"
+        },
+        {
+          "id": 1,
+          "text": "Reception",
+          "x": 347,
+          "y": 231,
+          "width": 135,
+          "height": 33,
+          "className": "label--utility",
+          "vertical": true
+        },
+        {
+          "id": 1,
+          "text": "Flint",
+          "x": 487,
+          "y": 481,
+          "width": 96,
+          "height": 36,
+          "className": "label--utility"
+        },
+        {
+          "id": 1,
+          "text": "Venture rooms",
+          "x": 481,
+          "y": 991,
+          "width": 109,
+          "height": 66,
+          "className": "label--utility",
+          "multipleLines": true
+        },
+        {
+          "id": 1,
+          "text": "Ember",
+          "x": 87,
+          "y": 1547,
+          "width": 96,
+          "height": 45,
+          "className": "label--utility"
+        },
+        {
+          "id": 1,
+          "text": "Lens",
+          "x": 851,
+          "y": 1487,
+          "width": 96,
+          "height": 45,
+          "className": "label--utility"
+        },
+        {
+          "id": 1,
+          "text": "Cafe",
+          "x": 487,
+          "y": 1573,
+          "width": 97,
+          "height": 33,
+          "className": "label--utility"
+        }
+      ]
+    }
+  ]
+}

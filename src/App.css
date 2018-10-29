@@ -1,0 +1,85 @@
+
+
+
+body{
+  margin:0;
+  overflow:hidden;
+}
+.wrapper{
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  /* -webkit-transform-origin: bottom left; */
+  -ms-transform-origin: bottom left;
+  transform-origin: top right;
+  position: absolute;
+  top: 0;
+  left: -100vh;
+  height: 100vw;
+  width: 100vh;
+  color: #fff;
+  overflow: auto;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.map {
+  width: 1080px;
+  height: 1720px;
+  background-color: #d0d3d6;
+}
+
+.office{
+  position: absolute;
+  top: 40px;
+  left:40px;
+  width: 1000px;
+  height: 1640px;
+  background-color: #fafafa;
+  border-radius: 24px;
+	background-color: #fafafa;
+  box-shadow: 0 0 19px 0 rgba(0, 0, 0, 0.22);
+}
+
+.partition {
+  position: absolute;
+}
+
+.desk{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border-radius: 17px;
+	border: solid 5px #549cff;
+}
+
+.desk--occupied{
+  background-color: #549cff;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
