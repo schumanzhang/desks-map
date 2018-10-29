@@ -1,15 +1,4 @@
 import React, { Component } from 'react';
-<<<<<<< HEAD
-import './App.css';
-import Map from './components/map'
-
-class App extends Component {
-
-  render() {
-    return (
-      <div>
-        <Map/>
-=======
 import LeftArea from './components/left-area'
 import RightArea from './components/right-area'
 import Steps from './components/steps'
@@ -44,7 +33,6 @@ class App extends Component {
           <LeftArea data={space.areas[0]}/>
           <RightArea data={space.areas[1]}/>
         </svg>
->>>>>>> first commit
       </div>
     )
   }
