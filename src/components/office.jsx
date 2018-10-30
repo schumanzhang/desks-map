@@ -42,9 +42,7 @@ export default class Office extends Component{
         const self = this
         getRequest("http://localhost:3000/offices/1")
         .then(function(response) {
-            return response.json();
-        }).then(function(officeJson) {
-            self.setState({office: officeJson})
+            self.setState({office: response.data})
         });
     }
 
